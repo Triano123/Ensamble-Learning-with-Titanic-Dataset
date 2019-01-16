@@ -1,0 +1,4 @@
+# Ensamble-Learning-with-Titanic-Dataset
+I will sharing about how to implementation of the ensamble learning to classify Survived and Dead on Titanic Datase.
+
+ Machine learning and data mining Kernel Machine.svg Problems[show] Supervised learning (classification • regression) [show] Clustering[show] Dimensionality reduction[show] Structured prediction[show] Anomaly detection[show] Artificial neural networks[show] Reinforcement learning[show] Theory[show] Machine-learning venues[show] Glossary of artificial intelligence[show] Related articles[show] Portal-puzzle.svg Machine learning portal vte In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone. 
